@@ -1,0 +1,25 @@
+.body {
+    background-color: rgba(41, 116, 41, .75);
+    padding: 5%;
+    color: white;
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+}
+.title {
+    text-align: center;
+}
+.food-pictures {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 500px;
+    border: 7px dashed white;
+}
+.background {
+    background-color: rgba(242, 250, 239, .25);
+    padding: 5%;
+}
+a {
+    color: white;
+}
